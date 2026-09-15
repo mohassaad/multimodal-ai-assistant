@@ -52,7 +52,6 @@ LangGraph ReAct Agent (Groq LLM)
   - Normal: 70.1%
 - **Training:** 2-phase (frozen base → fine-tuned top layers), grayscale input, sqrt class weighting, early stopping
 
-> ⚠️ **Educational demo only — not a medical diagnostic tool. Always consult a qualified radiologist.**
 
 ---
 
@@ -135,8 +134,6 @@ multimodal-ai-assistant/
 ## ⚠️ Important Notes
 
 - The `.env` file and `.keras` model are excluded from this repo (see `.gitignore`)
-- The chest X-ray classifier is for **educational demonstration only**
-- Real clinical AI requires regulatory approval and clinical validation
 
 ---
 
