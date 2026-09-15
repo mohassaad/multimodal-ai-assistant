@@ -144,7 +144,6 @@ multimodal-ai-assistant/
 
 **Mohamed Assaad**
 AI & Software Development Intern — Dataserv (IBM Gold Business Partner)
-German University in Cairo (GUC)
 
 Special thanks to mentor **Omnia Abdelrahman** and teammate **Mohamed Torky**
 
