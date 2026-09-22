@@ -39,6 +39,10 @@ LangGraph ReAct Agent (Groq LLM)
 
 ---
 
+## 🗂️ Entity Relationship Diagram
+
+![ERD](./ERD_project.png)
+
 ## 🫁 Chest X-Ray Classifier
 
 - **Model:** MobileNetV2 (transfer learning, fine-tuned)
