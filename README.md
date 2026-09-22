@@ -6,6 +6,10 @@ Built during an AI & Automation internship at **Dataserv** (Certified IBM Gold B
 
 ---
 
+## 🗂️ Entity Relationship Diagram
+
+![ERD](./ERD_project.png)
+
 ## 🧠 What is Orbit?
 
 Orbit is a multimodal AI assistant powered by a **LangGraph ReAct agent** that acts as the brain of the system. Instead of separate apps for each task, one agent reads your input and automatically routes it to the right AI-powered tool — no manual selection needed.
@@ -39,9 +43,6 @@ LangGraph ReAct Agent (Groq LLM)
 
 ---
 
-## 🗂️ Entity Relationship Diagram
-
-![ERD](./ERD_project.png)
 
 ## 🫁 Chest X-Ray Classifier
 
