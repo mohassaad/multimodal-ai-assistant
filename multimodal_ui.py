@@ -1,6 +1,6 @@
 """
 ============================================================
- Mini AI Assistant — Week 4 Final Task
+ Mini AI Assistant — Final Task
  Agent with Tool Selection (LangGraph) + Gradio UI
  ---- LIQUID GLASS UI VARIANT ----
 
@@ -1322,7 +1322,7 @@ LOADER_SHOW_JS = "() => { const o = document.getElementById('lga-loader-overlay'
 LOADER_HIDE_JS = "() => { const o = document.getElementById('lga-loader-overlay'); if (o) o.classList.remove('show'); }"
 
 with gr.Blocks(
-    title="Mini AI Assistant — Week 4",
+    title="Mini AI Assistant",
     css=LIQUID_GLASS_CSS,
     theme=gr.themes.Base()
 ) as demo:

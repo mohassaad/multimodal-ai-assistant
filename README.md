@@ -2,7 +2,7 @@
 
 > One AI brain. Four AI tools. The agent decides how to handle your input automatically.
 
-Built during an AI & Automation internship at **Dataserv** (Certified IBM Gold Business Partner) as a Week 4 capstone project.
+Built during an AI & Automation internship at **Dataserv** (Certified IBM Gold Business Partner) as a capstone project.
 
 ---
 
@@ -113,7 +113,7 @@ GROQ_API_KEY=your_groq_api_key_here
 Get a free key at [console.groq.com](https://console.groq.com)
 
 **5. Add the model file**
-The chest X-ray model (`cat_dog_model.keras`) is not included in this repo due to file size. Train it yourself using `train_xray.py` in the Week 3 training project, or contact me for the model file.
+The chest X-ray model (`cat_dog_model.keras`) is not included in this repo due to file size. Train it yourself using `train_xray.py` in the `training_ai_proj` folder of my ai-intern-projects repository, or contact me for the model file.
 
 **6. Run the app**
 ```bash
