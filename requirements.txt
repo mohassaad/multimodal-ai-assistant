@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-groq
+langchain-core
+groq
+tensorflow
+pillow
+pypdf
+gradio
+python-dotenv
